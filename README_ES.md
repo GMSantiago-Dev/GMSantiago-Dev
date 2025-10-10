@@ -5,15 +5,19 @@
 [![Español](https://img.shields.io/badge/Idioma-Español-red?style=for-the-badge)](./README_ES.md)
 [![Português](https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge)](./README_PT.md)
 
----
 
-<!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=PLAYER+SELECT;%3E+YOUR_NAME+%3C;LEVEL+99+DEVELOPER" alt="Typing SVG" />
+---
 
 <!-- PIXEL ART GIF -->
 <p align="center">
   <img src="https://media1.tenor.com/m/tQF9ESKjRaUAAAAd/warframe-warframe-loading.gif" alt="Warframe Loading" width="600" />
 </p>
+
+---
+
+<!-- ANIMATED TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=PLAYER+SELECT;%3E+YOUR_NAME+%3C;LEVEL+99+DEVELOPER" alt="Typing SVG" />
+
 ---
 
 ### 🎮 **MODO DE JUEGO: DESARROLLADOR FULL STACK** 🎮
