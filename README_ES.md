@@ -45,11 +45,11 @@
 ```
 
 <!-- GITHUB STATS -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMSantiago-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMSantiago-Dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GMSantiago-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMSantiago-Dev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&cache_seconds=86400"/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GMSantiago-Dev&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=GMSantiago-Dev&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6D00&currStreakLabel=00FF41" alt="GitHub Streak"/>
 
 </div>
 
